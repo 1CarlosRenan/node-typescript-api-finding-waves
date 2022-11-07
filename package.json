@@ -1,0 +1,24 @@
+{
+  "name": "typescript-api-finding-waves",
+  "version": "1.0.0",
+  "description": "Typescript Node.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1CarlosRenan/node-typescript-api-finding-waves.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "api"
+  ],
+  "author": "Carlos Renan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1CarlosRenan/node-typescript-api-finding-waves/issues"
+  },
+  "homepage": "https://github.com/1CarlosRenan/node-typescript-api-finding-waves#readme"
+}
